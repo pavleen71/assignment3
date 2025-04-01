@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">30 days fitness Challenge</string>
+    <string name="tip1">Stay hydrated</string>
+    <string name="explain1">Drinking enough water is essential for optimal performance and recovery.</string>
+
+    <string name="tip2">Warm up before exercise</string>
+    <string name="explain2">A proper warm-up prepares your muscles and reduces injury risk.</string>
+
+    <string name="tip3">Maintain proper posture</string>
+    <string name="explain3">Good posture prevents injuries and ensures effective workouts.</string>
+
+    <string name="tip4">Include strength training</string>
+    <string name="explain4">Building muscle improves metabolism and overall strength.</string>
+
+    <string name="tip5">Get enough sleep</string>
+    <string name="explain5">Recovery happens during sleep, so aim for at least 7-8 hours.</string>
+
+    <string name="tip6">Eat a balanced diet</string>
+    <string name="explain6">Nutrient-dense foods fuel your workouts and recovery.</string>
+
+    <string name="tip7">Do not skip rest days</string>
+    <string name="explain7">Your body needs time to recover and grow stronger.</string>
+
+    <string name="tip8">Track your progress</string>
+    <string name="explain8">Monitoring improvements keeps you motivated and focused.</string>
+
+    <string name="tip9">Practice deep breathing</string>
+    <string name="explain9">Proper breathing enhances endurance and reduces stress.</string>
+
+    <string name="tip10">Focus on flexibility</string>
+    <string name="explain10">Stretching prevents injuries and improves mobility.</string>
+
+    <string name="tip11">Set realistic goals</string>
+    <string name="explain11">Achievable goals keep you motivated and on track.</string>
+
+    <string name="tip12">Avoid processed foods</string>
+    <string name="explain12">Whole foods provide better nutrition and energy.</string>
+
+    <string name="tip13">Stay consistent</string>
+    <string name="explain13">Results come from regular and persistent effort.</string>
+
+    <string name="tip14">Get enough protein</string>
+    <string name="explain14">Protein helps with muscle recovery and growth.</string>
+
+    <string name="tip15">Incorporate HIIT workouts</string>
+    <string name="explain15">High-intensity interval training is great for fat loss.</string>
+
+    <string name="tip16">Stretch after exercise</string>
+    <string name="explain16">Post-workout stretching reduces soreness and improves flexibility.</string>
+
+    <string name="tip17">Listen to your body</string>
+    <string name="explain17">Avoid pushing through pain to prevent injury.</string>
+
+    <string name="tip18">Take breaks between sets</string>
+    <string name="explain18">Resting allows muscles to recover and perform better.</string>
+
+    <string name="tip19">Keep workouts fun</string>
+    <string name="explain19">Enjoyable activities keep you engaged and consistent.</string>
+
+    <string name="tip20">Stay active throughout the day</string>
+    <string name="explain20">Small movements add up to a healthier lifestyle.</string>
+
+    <string name="tip21">Reduce sugar intake</string>
+    <string name="explain21">Excess sugar can lead to weight gain and energy crashes.</string>
+
+    <string name="tip22">Improve your posture</string>
+    <string name="explain22">Good posture helps with breathing and reduces back pain.</string>
+
+    <string name="tip23">Meditate for mental health</string>
+    <string name="explain23">Mindfulness improves focus and reduces stress.</string>
+
+    <string name="tip24">Challenge yourself</string>
+    <string name="explain24">Progress happens when you step outside your comfort zone.</string>
+
+    <string name="tip25">Use proper footwear</string>
+    <string name="explain25">The right shoes prevent injuries and improve performance.</string>
+
+    <string name="tip26">Vary your workouts</string>
+    <string name="explain26">Mixing exercises prevents boredom and targets different muscles.</string>
+
+    <string name="tip27">Stay motivated with music</string>
+    <string name="explain27">Music boosts energy and keeps you moving.</string>
+
+    <string name="tip28">Strengthen your core</string>
+    <string name="explain28">A strong core improves balance and reduces injury risk.</string>
+
+    <string name="tip29">Avoid overtraining</string>
+    <string name="explain29">Too much exercise without rest leads to burnout.</string>
+
+    <string name="tip30">Celebrate small wins</string>
+    <string name="explain30">Recognizing progress keeps you motivated to continue.</string>
+</resources>
